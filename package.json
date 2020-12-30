@@ -1,8 +1,0 @@
-{
-  "name": "prac2edu",
-  "version": "1.0.0",  
-  "main": "index.js",
-  "repository": "https://git.heroku.com/prac2edu.git",
-  "license": "MIT",
-  "Content-Type": "text/plain; charset=UTF-8",
-}
