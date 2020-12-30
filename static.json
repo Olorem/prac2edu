@@ -5,5 +5,9 @@
       "Access-Control-Allow-Origin": "*"
     }
   },
-  "clean_urls": true
+  "clean_urls": true,
+  "routes": {
+    "/login/": "login/index.txt",
+    "/sample/": "sample/index.txt"
+  }
 }
